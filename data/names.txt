@@ -1,0 +1,10 @@
+cat
+dog
+a lot of lines here
+what happens?
+As long as there are returns \n the text appears to work. Back slash does nothing in this environmment.
+The live server picks up any changes in the text file and renders the new content
+What needs to happen next 
+- more formatting control
+- css references
+- read/ write/ save to local storage
